@@ -3,11 +3,10 @@
     margin: 0;
     font-family: sans-serif;
 }
-nav{
-    padding: 20px;
-    margin: 0;
-    text-align: center;
+header{
     background-color: gray;
+    text-align: center;
+    padding: 20px 0;
 }
 
 main{
